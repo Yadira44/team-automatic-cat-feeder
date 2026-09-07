@@ -35,4 +35,7 @@ The system compares real-time clock data against predefined daily feeding schedu
 <img width="822" height="659" alt="Screenshot 2026-09-06 at 8 08 42 PM" src="https://github.com/user-attachments/assets/7678d2d7-f42c-479f-aab9-abe79b593299" />
 
 ## Video Of Cat Feeder
+<img width="182" height="324" alt="Adobe Express - 1777441803819622" src="https://github.com/user-attachments/assets/b552e9bf-210f-4307-9902-82d0088655d8" />
+
+
 
