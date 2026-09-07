@@ -16,8 +16,8 @@ The system compares real-time clock data against predefined daily feeding schedu
 2. The transistor conducts, driving the 3 RPM DC motor for a calibrated duration (~15s) based on food payload mass.
 3. The flat carousel rotates 45°, dropping the food compartment over the lower discharge chute.
 
-## Key Engineering Challenges Solved
+## Key Challenges Solved
 
-- **Inductive Kickback Mitigation:** Added a flyback diode in parallel with the motor to protect the microcontroller from voltage transients during motor shutoff.
-- **Strain Relief & Mechanical Rigidity:** Addressed fragile soldered lead joints on the DC motor by stress-testing wires and applying hot-glue mechanical anchoring.
-- **Non-blocking Timing:** Implemented `millis()` time tracking in C++ to prevent delay loops from blocking RTC time updates.
+- Added a flyback diode in parallel with the motor to protect the microcontroller from voltage transients during motor shutoff.
+- Addressed fragile soldered lead joints on the DC motor by stress-testing wires and applying hot-glue mechanical anchoring.
+- Implemented `millis()` time tracking in C++ to prevent delay loops from blocking RTC time updates.
