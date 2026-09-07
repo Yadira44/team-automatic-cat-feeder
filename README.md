@@ -22,6 +22,9 @@ The system compares real-time clock data against predefined daily feeding schedu
 - Addressed fragile soldered lead joints on the DC motor by stress-testing wires and applying hot-glue mechanical anchoring.
 - Implemented `millis()` time tracking in C++ to prevent delay loops from blocking RTC time updates.
 
+## Work Breakdown Chart
+<img width="818" height="497" alt="Screenshot 2026-09-06 at 8 10 30 PM" src="https://github.com/user-attachments/assets/68e89390-2e14-496d-a9bb-35e89e4bcdf4" />
+
 ## Schematic
 <img width="1238" height="744" alt="Screenshot 2026-09-06 at 8 05 49 PM" src="https://github.com/user-attachments/assets/e764e446-e189-4adc-8c44-2cbc326a8098" />
 
@@ -30,3 +33,6 @@ The system compares real-time clock data against predefined daily feeding schedu
 
 ## Final Version
 <img width="822" height="659" alt="Screenshot 2026-09-06 at 8 08 42 PM" src="https://github.com/user-attachments/assets/7678d2d7-f42c-479f-aab9-abe79b593299" />
+
+## Video Of Cat Feeder
+https://share.icloud.com/photos/0660W1lUF6sfq0E5mwFxm_1Lw
