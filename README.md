@@ -24,3 +24,7 @@ The system compares real-time clock data against predefined daily feeding schedu
 
 ## Schematic
 <img width="1238" height="744" alt="Screenshot 2026-09-06 at 8 05 49 PM" src="https://github.com/user-attachments/assets/e764e446-e189-4adc-8c44-2cbc326a8098" />
+
+## Cat Feeder Wiring
+<img width="857" height="883" alt="Screenshot 2026-09-06 at 8 07 40 PM" src="https://github.com/user-attachments/assets/b3f2c5b3-9f6d-4586-894e-645ed88e587c" />
+
