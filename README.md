@@ -22,6 +22,10 @@ The system compares real-time clock data against predefined daily feeding schedu
 - Addressed fragile soldered lead joints on the DC motor by stress-testing wires and applying hot-glue mechanical anchoring.
 - Implemented `millis()` time tracking in C++ to prevent delay loops from blocking RTC time updates.
 
+## Future Improvements
+- Adding an easier way to manipulate timing and power to the motor based on load of food could be a great addition. This could allow a more user-friendly way to choose feeding time regardless of coding background and way to help the motor based on cat food weight; some people may be using the product to feed more than one cat.
+- Designing and 3D printing a custom cat feeder case would be ideal compared to the current cardboard feeder.
+
 ## Work Breakdown Chart
 <img width="818" height="497" alt="Screenshot 2026-09-06 at 8 10 30 PM" src="https://github.com/user-attachments/assets/68e89390-2e14-496d-a9bb-35e89e4bcdf4" />
 
