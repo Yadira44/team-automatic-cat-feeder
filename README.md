@@ -21,3 +21,6 @@ The system compares real-time clock data against predefined daily feeding schedu
 - Added a flyback diode in parallel with the motor to protect the microcontroller from voltage transients during motor shutoff.
 - Addressed fragile soldered lead joints on the DC motor by stress-testing wires and applying hot-glue mechanical anchoring.
 - Implemented `millis()` time tracking in C++ to prevent delay loops from blocking RTC time updates.
+
+## State Diagram
+![Cat Feeder State Schematic] (<img width="1238" height="744" alt="Screenshot 2026-09-06 at 8 05 49 PM" src="https://github.com/user-attachments/assets/e764e446-e189-4adc-8c44-2cbc326a8098" />)
